@@ -25,6 +25,7 @@ main .log{padding: 0.2em 0.5em;
     border: dashed 2px white;}
 main .log form{margin: 0; padding: 0}
 main section .log{color: #d6ebff;}
+main p{overfrow-wrap}
 footer {
     position: fixed;
     bottom: 0;
